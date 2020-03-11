@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "laptop -0008 is under test",
+      "attention": false,
+      "tech": "shirin  g",
+      "date": "2020-03-11T05:03:06.812Z",
+      "id": 1
+    },
+    {
+      "message": "server 007 needs to be updated",
+      "attention": true,
+      "tech": "deepu s",
+      "date": "2020-03-11T05:03:47.228Z",
+      "id": 2
+    },
+    {
+      "message": "check the status of server 500",
+      "attention": false,
+      "tech": "shiva saankhya",
+      "date": "2020-03-11T05:04:30.147Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "shirin ",
+      "lastName": "g",
+      "id": 1
+    },
+    {
+      "firstName": "deepu",
+      "lastName": "s",
+      "id": 2
+    },
+    {
+      "firstName": "shiva",
+      "lastName": "saankhya",
+      "id": 3
+    }
+  ]
+}
